@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accessibility Macro</string>
+    <string name="accessibility_service_label">Macro Gesture Dispatcher</string>
+    <string name="accessibility_service_description">
+        Allows this app to dispatch taps and swipes you have configured yourself,
+        for automating repetitive on-screen actions in apps of your choosing.
+        This service does not read screen content from other apps.
+    </string>
+    <string name="overlay_channel_name">Macro Overlay</string>
+    <string name="overlay_notification_title">Macro overlay active</string>
+    <string name="overlay_notification_text">Tap to open controls</string>
+</resources>
